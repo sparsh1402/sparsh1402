@@ -7,7 +7,7 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, C++, C, JavaScript
 -  **Development :** HTML, CSS, Nodejs, ReactJS, MongoDB
--  **Frameworks :** Django
+-  **Frameworks :** Spring, SpringBoot
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 <!-- -  **Organization :** Technojam -->
